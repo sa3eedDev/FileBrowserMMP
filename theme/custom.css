@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,900;1,900&display=swap');
+
+body{
+    font-family: 'Exo 2', sans-serif;
+}
 :root{
     --icon: #7147c2;
     --blue: #8761fc;
@@ -11,7 +16,8 @@
 header{
     background-color: #1d1e25;
 }
-.action{
+#login h1{
+    font-style: italic;
 }
 #listing .item{
     background-color: #1d1e25;
