@@ -1,6 +1,12 @@
 # FileBrowserMMP
 
-Web file browser using [FileBrowser](https://github.com/filebrowser/filebrowser) for the Miyoo Mini+
+Web file browser using [FileBrowser](https://github.com/filebrowser/filebrowser) for the Miyoo Mini+ (Onion)
+
+Can upload, download, and edit files from the browser!
+
+![login](imgs/login.png)
+
+![homepage](imgs/homepage.png)
 
 # Install 
 
@@ -9,7 +15,7 @@ To install the web file browser into the Miyoo Mini+:
 2. Unzip the file
 3. Place the content of the App folder into the App folder in the Miyoo Mini+ SD card
 
-# start
+# Start
 
 In the Miyoo Mini+, run the Web File Browser app in Apps **Make sure you are connected to Wifi**. 
 
