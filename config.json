@@ -1,6 +1,6 @@
 {
 	"label":	"Web File Browser",
-	"icon":	"/mnt/SDCARD/App/FileBrowser/filebrowser.png",
+	"icon":	"filebrowser.png",
 	"launch":	"launch.sh",
 	"description":	"FileBrowser server"
 }
