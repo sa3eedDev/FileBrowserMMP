@@ -15,8 +15,8 @@ In the Miyoo Mini+ run the Web File Browser app in Apps **Make sure you are conn
 
 enter the ip address of the Miyoo Mini+ in a browser and enjoy!
 
-Defualt username: `admin`
-Defualt password: `admin`
+Default username: `admin`
+Default password: `admin`
 
 # Special Thanks
 
