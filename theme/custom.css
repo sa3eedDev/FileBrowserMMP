@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,700;1,900&display=swap');
 body{
     font-family: 'Exo 2', sans-serif;
+    line-height: 19px;
 }
 :root{
     --icon: #7147c2;
